@@ -29,5 +29,16 @@ c = a + b;
 # Integers
 - int -2^31 and 2^31 - 1
 - type long is similar to int except it can represent integers in a much larger ranger, between -2^63 and 2^63-1
-- 
+
+# Real numbers
+- double type
+- floating-point numbers
+- example
+  - pi = 3.14159
+  - 6.022E23
+- java Math library
+  - trigonometric functions
+  - logarithm/exponential
+
+
 
