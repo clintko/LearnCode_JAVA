@@ -19,8 +19,11 @@ title: "Ch01-02 Built-in Types of Data"
   - a sequence of characters
   - most common operation: concatenation
 
-    String a, b, c;
-    a = "Hello,";
-    b = " Bob";
-    c = a + b;
+```
+String a, b, c;
+a = "Hello,";
+b = " Bob";
+c = a + b;
+```
+
 
