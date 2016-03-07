@@ -26,4 +26,6 @@ b = " Bob";
 c = a + b;
 ```
 
+# Integers
+- int -2^31 and 2^31
 
