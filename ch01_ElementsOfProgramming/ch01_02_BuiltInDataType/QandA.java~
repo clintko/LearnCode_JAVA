@@ -1,0 +1,6 @@
+public class QandA {
+    public static void main(String[] args) {
+	// Q How do I get the | symbol
+	System.out.println("|");
+    } // end main
+}
