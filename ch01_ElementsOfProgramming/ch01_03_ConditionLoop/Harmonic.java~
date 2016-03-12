@@ -1,0 +1,13 @@
+public class Harmonic {
+
+    public static main void(String[] args) {
+
+	// initialization
+	int N = Integer.parseInteger(args[0]);
+	double harmonic = 0;
+
+	for (int idx = 1; idx <= N; idx++) {
+	    harmonic += 1.0 / idx;
+	} // end for
+    } // end main
+} // end class
