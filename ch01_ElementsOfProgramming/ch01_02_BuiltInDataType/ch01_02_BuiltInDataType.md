@@ -38,7 +38,6 @@ c = a + b;
   - 6.022E23
 - java Math library
   - trigonometric functions
+    - Note: sin(double) takes a double in parameter which is the angle in radians like said in the documentation
   - logarithm/exponential
-
-
 
