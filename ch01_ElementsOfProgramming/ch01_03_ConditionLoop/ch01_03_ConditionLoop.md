@@ -136,6 +136,10 @@ public class PowersOfTwo {
 ```
 
 # For Loops
+```
+for (int i = 4; i <= 10; i = i + 1)
+    System.out.println(i + "th Hello");
+```
 
 # Applications
 - **Ruler subdivisions**
